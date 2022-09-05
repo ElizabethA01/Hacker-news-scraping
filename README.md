@@ -1,8 +1,5 @@
 # Hacker-news-scraper
-Exercise from my Udemy 'Complete python developer in 2021: Zero to Mastery' course about scraping data using Python (including BeautifulSoup).
-
-# Hacker-news-scraper
-> This is a backend application that scrapes the Hacker News website for popular news. 
+> This is a backend application that scrapes the Hacker News website for popular news using Python specifically the library Beautiful Soup.
 
 ## Table of Contents
 * [General Info](#general-information)
@@ -20,8 +17,10 @@ Exercise from my Udemy 'Complete python developer in 2021: Zero to Mastery' cour
 - The purpose of this backend application is scrape the Hacker news website for relevant news with views higher than 99 to eliminate unpopular news.
 - I undertook the project as part of a Udemy course and to understand the concept of scraping the web. 
 
+
 ## Technologies Used
 - Python - version 3.9
+- Python library (Beautiful Soup) - version 4.9
 
 
 ## Features
